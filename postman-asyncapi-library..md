@@ -6,7 +6,7 @@ Build your own guidelines with this library covering a wide range of topics.
 These rules aim to help you design and document your asynchronous API.
 
 
-# <a id="info-contact-defined"></a>API information should provide contact information
+# <a name="info-contact-defined"></a>API information should provide contact information
 
 ## Example
 
@@ -30,7 +30,7 @@ openapi document
 
 
 
-# <a id="info-contact-email-or-url-defined"></a>API contact information should provide an email or a url
+# <a name="info-contact-email-or-url-defined"></a>API contact information should provide an email or a url
 
 ## Example
 
@@ -54,7 +54,7 @@ openapi document
 
 
 
-# <a id="info-contact-email-defined"></a>API contact information should provide an email
+# <a name="info-contact-email-defined"></a>API contact information should provide an email
 
 ## Example
 
@@ -78,7 +78,7 @@ openapi document
 
 
 
-# <a id="info-contact-name-defined"></a>API contact information should provide a name
+# <a name="info-contact-name-defined"></a>API contact information should provide a name
 
 ## Example
 
@@ -102,7 +102,7 @@ openapi document
 
 
 
-# <a id="info-contact-url-defined"></a>API contact information should have a url
+# <a name="info-contact-url-defined"></a>API contact information should have a url
 
 ## Example
 
@@ -126,7 +126,7 @@ openapi document
 
 
 
-# <a id="info-description-defined"></a>API information should provide a description
+# <a name="info-description-defined"></a>API information should provide a description
 
 ## Example
 
@@ -150,7 +150,7 @@ openapi document
 
 
 
-# <a id="info-license-defined"></a>API information should provide license information
+# <a name="info-license-defined"></a>API information should provide license information
 
 ## Example
 
@@ -174,7 +174,7 @@ openapi document
 
 
 
-# <a id="info-license-url-defined"></a>API license information should provide a url
+# <a name="info-license-url-defined"></a>API license information should provide a url
 
 ## Example
 
@@ -198,7 +198,7 @@ openapi document
 
 
 
-# <a id="info-termsofservice-defined"></a>API information should provide terms of service information
+# <a name="info-termsofservice-defined"></a>API information should provide terms of service information
 
 ## Example
 
@@ -222,7 +222,7 @@ openapi document
 
 
 
-# <a id="schema-array-length-defined"></a>The minimum and maximum length of an array should be indicated
+# <a name="schema-array-length-defined"></a>The minimum and maximum length of an array should be indicated
 
 ## Example
 
@@ -246,7 +246,7 @@ openapi document
 
 
 
-# <a id="schema-string-length-defined"></a>The minimum and maximum length of a string should be indicated
+# <a name="schema-string-length-defined"></a>The minimum and maximum length of a string should be indicated
 
 ## Example
 
@@ -270,7 +270,7 @@ openapi document
 
 
 
-# <a id="schema-not-inline-message-headers"></a>The schema of a message header should be a reference to a reusable schema
+# <a name="schema-not-inline-message-headers"></a>The schema of a message header should be a reference to a reusable schema
 
 ## Example
 
@@ -294,7 +294,7 @@ openapi document
 
 
 
-# <a id="schema-not-inline-message-trait-headers"></a>The schema of a message trait header should be a reference to a reusable schema
+# <a name="schema-not-inline-message-trait-headers"></a>The schema of a message trait header should be a reference to a reusable schema
 
 ## Example
 
@@ -318,7 +318,7 @@ openapi document
 
 
 
-# <a id="schema-not-inline-payload"></a>The schema of a message payload should be a reference to a reusable schema
+# <a name="schema-not-inline-payload"></a>The schema of a message payload should be a reference to a reusable schema
 
 ## Example
 
@@ -342,7 +342,7 @@ openapi document
 
 
 
-# <a id="schema-not-inline-parameter"></a>The schema of a parameter should be a reference to a reusable schema
+# <a name="schema-not-inline-parameter"></a>The schema of a parameter should be a reference to a reusable schema
 
 ## Example
 
@@ -366,7 +366,7 @@ openapi document
 
 
 
-# <a id="property-description-defined"></a>A property should have a description if property name and context are not explicit enough
+# <a name="property-description-defined"></a>A property should have a description if property name and context are not explicit enough
 
 ## Example
 
@@ -390,7 +390,7 @@ openapi document
 
 
 
-# <a id="reusable-schema-description-defined"></a>A reusable schema property should have a description if name is not explicit enough
+# <a name="reusable-schema-description-defined"></a>A reusable schema property should have a description if name is not explicit enough
 
 ## Example
 
@@ -414,7 +414,7 @@ openapi document
 
 
 
-# <a id="operation-summary-defined"></a>An operation should have a summary
+# <a name="operation-summary-defined"></a>An operation should have a summary
 
 ## Example
 
@@ -438,7 +438,7 @@ openapi document
 
 
 
-# <a id="summary-period-none"></a>A summary is a title that shouldn't end with a period
+# <a name="summary-period-none"></a>A summary is a title that shouldn't end with a period
 
 ## Example
 
@@ -462,7 +462,7 @@ openapi document
 
 
 
-# <a id="parameter-description-defined"></a>A parameter should have a description if name and context are not explicit enough
+# <a name="parameter-description-defined"></a>A parameter should have a description if name and context are not explicit enough
 
 ## Example
 
@@ -486,7 +486,7 @@ openapi document
 
 
 
-# <a id="parameters-examples-defined"></a>A parameter should have at least one example
+# <a name="parameters-examples-defined"></a>A parameter should have at least one example
 
 ## Example
 
@@ -510,7 +510,7 @@ openapi document
 
 
 
-# <a id="message-examples-defined"></a>A message should have at least one example
+# <a name="message-examples-defined"></a>A message should have at least one example
 
 ## Example
 
@@ -534,7 +534,7 @@ openapi document
 
 
 
-# <a id="messagetrait-examples-defined"></a>A message trait should have at least one example
+# <a name="messagetrait-examples-defined"></a>A message trait should have at least one example
 
 ## Example
 
