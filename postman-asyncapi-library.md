@@ -370,7 +370,7 @@ channels: {}
 
 ### Issue
 
-MinItems and maxItems are not defined in array property.
+The minItems and maxItems properties are not defined in array.
 
 ```yaml
 asyncapi: 2.6.0
@@ -390,7 +390,7 @@ components:
 ```
 ### Resolution
 
-MinItems and maxItems are defined in array property.
+The minItems and maxItems are defined in array.
 
 ```yaml
 asyncapi: 2.6.0
